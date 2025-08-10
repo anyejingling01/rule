@@ -5,6 +5,6 @@
 
 
 #### Sub-Store 脚本操作 不联网
-* [rename.js](https://raw.githubusercontent.com/Keywos/rule/main/rename.js)
+* [rename.js](https://raw.githubusercontent.com/anyejingling01/rule/main/rename.js)
 
 
